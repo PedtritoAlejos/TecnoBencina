@@ -11,13 +11,13 @@ import oracle.jdbc.driver.OracleDriver;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 public class ClaseConexion {
     
   
     //Usuario de la base de datos
-    private final String USUARIO = "Portafolio_lucho";
+    private final String USUARIO = "Portafolio_pedrito";
     //Contraseña del usuario de la base de datos
     private final String PASS = "1234";
     //SID de la base de datos, este lo registramos en la instalacion

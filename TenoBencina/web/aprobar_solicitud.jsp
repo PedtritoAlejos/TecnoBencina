@@ -1,7 +1,7 @@
 <%-- 
     Document   : aprobar_solicitud
     Created on : 28-07-2016, 03:40:14 PM
-    Author     : Luxo
+    Author     : Pedrito Alejos 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

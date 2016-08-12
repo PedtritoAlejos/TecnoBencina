@@ -10,7 +10,7 @@ import EJB.EJB_USUARIO;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito
  */
 public class PruebasTEST {
 

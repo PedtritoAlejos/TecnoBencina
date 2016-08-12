@@ -17,7 +17,7 @@ import EJB.EJB_SOLICITUD;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 
 @WebServlet(name = "process_aprobar_solicitud", urlPatterns = {"/process_aprobar_solicitud"})

@@ -19,7 +19,7 @@ import EJB.EJB_SOLICITUD;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 @WebServlet(name = "process_registrar_pago", urlPatterns = {"/process_registrar_pago"})
 public class process_registrar_pago extends HttpServlet {

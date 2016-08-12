@@ -1,7 +1,7 @@
 <%-- 
     Document   : inicio_usuario_estandar
     Created on : 25-07-2016, 06:01:24 PM
-    Author     : Luxo
+    Author     : Pedrito Alejos 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

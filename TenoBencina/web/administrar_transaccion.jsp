@@ -1,7 +1,7 @@
 <%-- 
     Document   : administrar_transaccion
     Created on : 29-07-2016, 05:00:49 PM
-    Author     : Luxo
+    Author     : Pedrito Alejos 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

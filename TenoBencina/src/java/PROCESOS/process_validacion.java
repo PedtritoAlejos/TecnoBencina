@@ -19,7 +19,7 @@ import EJB.EJB_USUARIO;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 @WebServlet(name = "process_validacion", urlPatterns = {"/process_validacion"})
 public class process_validacion extends HttpServlet {

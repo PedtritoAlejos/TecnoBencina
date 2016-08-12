@@ -7,7 +7,7 @@ package DTO;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 public class ClaseUsuario {
     private String rut ;

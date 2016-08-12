@@ -18,7 +18,7 @@ import java.sql.Timestamp;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 public class DAO_SOLICITUD {
     private static final String SQL_LISTAR= 

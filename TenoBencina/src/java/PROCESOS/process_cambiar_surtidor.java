@@ -17,7 +17,7 @@ import javax.ejb.EJB;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 @WebServlet(name = "process_cambiar_surtidor", urlPatterns = {"/process_cambiar_surtidor"})
 public class process_cambiar_surtidor extends HttpServlet {

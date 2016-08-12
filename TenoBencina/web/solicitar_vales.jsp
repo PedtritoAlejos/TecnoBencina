@@ -1,7 +1,7 @@
 <%-- 
     Document   : solicitar_vales
     Created on : 28-07-2016, 05:26:58 PM
-    Author     : Luxo
+    Author     : Pedrito Alejos 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -19,7 +19,7 @@ import javax.ejb.EJB;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 @WebServlet(name = "process_trasaccion", urlPatterns = {"/process_trasaccion"})
 public class process_trasaccion extends HttpServlet {

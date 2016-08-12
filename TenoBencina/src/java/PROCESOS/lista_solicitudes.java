@@ -19,7 +19,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 @WebServlet(name = "lista_solicitudes", urlPatterns = {"/lista_solicitudes"})
 public class lista_solicitudes extends HttpServlet {

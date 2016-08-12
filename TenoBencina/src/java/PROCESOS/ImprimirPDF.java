@@ -35,7 +35,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 @WebServlet(name = "ImprimirPDF", urlPatterns = {"/ImprimirPDF"})
 public class ImprimirPDF extends HttpServlet {

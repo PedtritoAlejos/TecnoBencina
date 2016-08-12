@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 public class DAO_SURTIDOR {
    

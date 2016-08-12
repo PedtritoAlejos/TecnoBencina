@@ -14,7 +14,7 @@ import java.sql.Timestamp;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 public class DAO_EMPRESA {
    

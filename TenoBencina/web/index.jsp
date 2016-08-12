@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 25-07-2016, 01:17:02 PM
-    Author     : Luxo
+    Author     : Pedrito Alejos 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

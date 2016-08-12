@@ -18,7 +18,7 @@ import javax.ejb.EJB;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 @WebServlet(name = "process_enviar_solicitud", urlPatterns = {"/process_enviar_solicitud"})
 public class process_enviar_solicitud extends HttpServlet {

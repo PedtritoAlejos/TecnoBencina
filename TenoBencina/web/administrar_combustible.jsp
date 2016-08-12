@@ -1,7 +1,7 @@
 <%-- 
     Document   : administrar_combustible
     Created on : 27-07-2016, 04:10:16 PM
-    Author     : Luxo
+    Author     : Pedrito Alejos 
 --%>
 
 

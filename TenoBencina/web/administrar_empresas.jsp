@@ -1,7 +1,7 @@
 <%-- 
     Document   : administrar_empresas
     Created on : 25-07-2016, 11:25:02 PM
-    Author     : Luxo
+    Author     : Pedrito Alejos 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

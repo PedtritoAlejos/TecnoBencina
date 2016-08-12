@@ -17,7 +17,7 @@ import javax.ejb.EJB;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos xo
  */
 @WebServlet(name = "process_anular", urlPatterns = {"/process_anular"})
 public class process_anular extends HttpServlet {

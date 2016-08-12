@@ -1,7 +1,7 @@
 <%-- 
     Document   : formulario_surtidor
     Created on : 29-07-2016, 07:24:17 PM
-    Author     : Luxo
+    Author     : Pedrito Alejos 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

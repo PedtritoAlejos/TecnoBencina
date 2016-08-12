@@ -17,7 +17,7 @@ import EJB.EJB_PAGO;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 @WebServlet(name = "aprobar_transaccion", urlPatterns = {"/aprobar_transaccion"})
 public class aprobar_transaccion extends HttpServlet {

@@ -18,7 +18,7 @@ import EJB.EJB_PAGO;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 
 @WebServlet(name = "reenviar_surtidor", urlPatterns = {"/reenviar_surtidor"})

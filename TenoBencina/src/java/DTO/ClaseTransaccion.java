@@ -9,7 +9,7 @@ import java.sql.Timestamp;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 public class ClaseTransaccion {
     private int Id_transaccion ;

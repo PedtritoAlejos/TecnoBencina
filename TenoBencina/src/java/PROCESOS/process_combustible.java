@@ -17,7 +17,7 @@ import EJB.EJB_COMBUSTIBLE;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 @WebServlet(name = "process_combustible", urlPatterns = {"/process_combustible"})
 public class process_combustible extends HttpServlet {

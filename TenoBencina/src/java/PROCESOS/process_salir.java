@@ -16,7 +16,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 @WebServlet(name = "process_salir", urlPatterns = {"/process_salir"})
 public class process_salir extends HttpServlet {

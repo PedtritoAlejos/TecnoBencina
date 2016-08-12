@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 @WebServlet(name = "process_usuario", urlPatterns = {"/process_usuario"})
 public class process_usuario extends HttpServlet {

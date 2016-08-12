@@ -18,7 +18,7 @@ import EJB.EJB_SOLICITUD;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 @WebServlet(name = "buscar_vale", urlPatterns = {"/buscar_vale"})
 public class buscar_vale extends HttpServlet {

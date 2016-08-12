@@ -7,7 +7,7 @@ package DTO;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 public class Clase_solicitud {
     private int codigo_solicitud;

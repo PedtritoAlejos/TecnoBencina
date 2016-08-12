@@ -17,7 +17,7 @@ import EJB.EJB_SURTIDOR;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 @WebServlet(name = "process_surtidor", urlPatterns = {"/process_surtidor"})
 public class process_surtidor extends HttpServlet {

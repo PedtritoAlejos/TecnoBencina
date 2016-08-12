@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 public class DAO_USUARIO {
      private static final String SQL_LISTAR_USUARIO = "select * from usuario";

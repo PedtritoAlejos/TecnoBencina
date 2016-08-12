@@ -15,7 +15,7 @@ import javax.ejb.Stateless;
 
 /**
  *
- * @author Luxo
+ * @author Pedrito Alejos 
  */
 @Stateless
 public class EJB_COMBUSTIBLE {

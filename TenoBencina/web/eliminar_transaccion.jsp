@@ -1,7 +1,7 @@
 <%-- 
     Document   : eliminar_transaccion
     Created on : 31-07-2016, 01:58:34 PM
-    Author     : Luxo
+    Author     : Pedrito Alejos 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
